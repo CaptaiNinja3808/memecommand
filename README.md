@@ -9,4 +9,6 @@ Command for send random meme
 
 ```npm i url```
 
+```npm i random-puppy```
+
 ***
