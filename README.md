@@ -11,4 +11,6 @@ Command for send random meme
 
 ```npm i random-puppy```
 
+```npm i process```
+
 ***
