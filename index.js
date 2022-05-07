@@ -3,6 +3,8 @@ require('events').EventEmitter.prototype._maxListeners = 100;
 
 const Discord = require('discord.js')
 
+client.login("Token")
+
 //Meme
 
 const randomPuppy = require('random-puppy');
